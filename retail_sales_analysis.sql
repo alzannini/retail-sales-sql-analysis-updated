@@ -1,5 +1,5 @@
 
--- 1. BASIC DATA
+--  BASIC DATA
 
 SELECT *
 FROM orders
