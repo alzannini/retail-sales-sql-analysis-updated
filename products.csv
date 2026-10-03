@@ -1,0 +1,31 @@
+product_id,product_name,category,unit_price
+1,Laptop Stand,Office,49.99
+2,Wireless Mouse,Electronics,29.99
+3,Mechanical Keyboard,Electronics,89.99
+4,USB-C Hub,Electronics,59.99
+5,Noise-Canceling Headphones,Electronics,149.99
+6,Webcam,Electronics,79.99
+7,Desk Lamp,Office,39.99
+8,Ergonomic Office Chair,Office,249.99
+9,Standing Desk,Office,399.99
+10,Monitor 24-inch,Electronics,179.99
+11,Monitor 27-inch,Electronics,279.99
+12,External SSD 1TB,Electronics,109.99
+13,External SSD 2TB,Electronics,179.99
+14,Notebook Pack,Office Supplies,14.99
+15,Gel Pen Set,Office Supplies,11.99
+16,Desk Organizer,Office Supplies,24.99
+17,Backpack,Accessories,69.99
+18,Laptop Sleeve,Accessories,34.99
+19,Bluetooth Speaker,Electronics,64.99
+20,Phone Stand,Accessories,19.99
+21,Cable Organizer,Office Supplies,12.99
+22,Power Strip,Electronics,29.99
+23,Wireless Charger,Electronics,44.99
+24,Tablet Stand,Accessories,39.99
+25,Water Bottle,Accessories,24.99
+26,Coffee Tumbler,Accessories,22.99
+27,Whiteboard,Office Supplies,59.99
+28,Filing Cabinet,Office,129.99
+29,Document Scanner,Electronics,199.99
+30,Portable Monitor,Electronics,229.99
