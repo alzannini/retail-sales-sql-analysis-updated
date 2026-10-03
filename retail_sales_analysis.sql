@@ -27,7 +27,7 @@ SELECT
 FROM orders
 WHERE order_status = 'Completed';
 
--- 4. TOTAL QUANTITY SOLD
+--  TOTAL QUANTITY SOLD
 
 SELECT
     SUM(quantity) AS total_units_sold
